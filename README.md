@@ -1,7 +1,6 @@
 # <div align="center">Hello, my name is Adam <img align="center" width="3.5%" src="https://user-images.githubusercontent.com/104594328/207131625-63abd80f-c2c7-4964-bde4-34ac4016e645.png"></div>   
 
 <p align="center">🔭 I’m currently working on</p> 
-<p align="center">🌱 I’m currently learning JavaScript and Python</p>
 
 <br>
 
@@ -45,6 +44,7 @@
 </div>
 
 </td></tr></table>  
+<p align="center">🌱 I’m currently learning JavaScript and Python</p>
 
 <br/>     
 
