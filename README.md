@@ -50,4 +50,4 @@
 
 <h2 align="center">GitHub Stats</h2>  
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaludek&hide_border=true&layout=compact">  
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=azaludek&show_icons=true">
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=azaludek&show_icons=true">
