@@ -5,10 +5,8 @@
   
 
 - 🌱 I’m currently learning JavaScript and Python  
-  
-
-<br/>  
-
+ 
+<br>
 
 ## My Skill Set  
 <table><tr><td valign="top" width="25%">
@@ -51,8 +49,15 @@
 
 </td></tr></table>  
 
-<br/>    
+<br/>     
 
+## Github Stats  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaludek&hide_border=true&layout=compact">  
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=azaludek&show_icons=true">
+
+<br/>
+<br/>
+<br/>
 
 ## Connect with me  
 <div align="center">
@@ -68,13 +73,9 @@
 <a href="https://stackoverflow.com/users/19164226" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div> 
+<br>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaludek&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
-
-<br/>  
-  
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=azaludek&&style=flat-square" align="center" />
 </div>  
