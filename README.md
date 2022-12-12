@@ -1,15 +1,12 @@
-# <div align="center">Hello, my name is Adam <img align="center" width="3.5%" src="https://user-images.githubusercontent.com/104594328/207131625-63abd80f-c2c7-4964-bde4-34ac4016e645.png"></div>  
-  
+# <div align="center">Hello, my name is Adam <img align="center" width="3.5%" src="https://user-images.githubusercontent.com/104594328/207131625-63abd80f-c2c7-4964-bde4-34ac4016e645.png"></div>   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
-  
+<p align="center">🔭 I’m currently working on</p> 
+<p align="center">🌱 I’m currently learning JavaScript and Python</p>
 
-- 🌱 I’m currently learning JavaScript and Python  
- 
 <br>
 
-## My Skill Set  
-<table><tr><td valign="top" width="25%">
+<h2 align="center">My Skill Set</h2>  
+<table align="center"><tr><td valign="top" width="25%">
 
 ### Frontend  
 <div align="center">  
@@ -51,31 +48,6 @@
 
 <br/>     
 
-## Github Stats  
+<h2 align="center">GitHub Stats</h2>  
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaludek&hide_border=true&layout=compact">  
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=azaludek&show_icons=true">
-
-<br/>
-<br/>
-<br/>
-
-<h2 align="center">Connect with me</h2>  
-<div align="center">
-<a href="https://github.com/azaludek" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/adazaludek" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/azaludek" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/19164226" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div> 
-<br>
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=azaludek&&style=flat-square" align="center" />
-</div>  
