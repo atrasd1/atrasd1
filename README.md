@@ -4,7 +4,7 @@
 
 <br>
 
-<h2 align="center">My Skill Set</h2>  
+<h1 align="center">My Skill Set</h1>  
 <table align="center"><tr><td valign="top" width="25%">
 
 ### Frontend  
@@ -44,10 +44,11 @@
 
 </td></tr></table>  
 <p align="center">🌱 I’m currently learning JavaScript and Python</p>
-
-<br/>
-
-<h2 align="center">GitHub Stats</h2>  
+<br>
+<h1 align="center">GitHub Stats</h1> 
+<br>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=azaludek&theme=onedark"</img>
+<br> 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azaludek&hide_border=true&layout=compact&theme=transparent">  
 <img align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=azaludek&show_icons=true&theme=transparent&&count_private=true&hide_border=true">
 <br>
