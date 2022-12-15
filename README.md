@@ -2,7 +2,6 @@
 
 <p align="center">🔭 I’m currently working on my personal website</p> 
 <p align="center">🌱 I’m currently learning JavaScript and Python</p>
-<p align="center">😄 My favourite productivity apps are: Obsidian & Notion</p>
 <h1 align="center">My Skill Set</h1>  
 <table align="center"><tr><td valign="top" width="25%">
 
