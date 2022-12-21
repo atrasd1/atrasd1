@@ -1,6 +1,6 @@
 # <div align="center">Hello, my name is Adam <img align="center" width="3.5%" src="https://user-images.githubusercontent.com/104594328/207131625-63abd80f-c2c7-4964-bde4-34ac4016e645.png"></div>   
 
-<p align="center">👉 I’m currently working on my <a href="azaludek.github.io" target="_blank">personal website</a></p>
+<p align="center">👉 I’m currently working on my <a href="https://azaludek.github.io/" target="_blank">personal website</a></p>
 <p align="center">🌱 I’m currently learning JavaScript and Python</p>
 
 <h1 align="center">My Skill Set</h1>  
